@@ -13,3 +13,5 @@ const notebook = {
   storage: '512GB PCIe NVMe M.2 SSD'
 };
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
